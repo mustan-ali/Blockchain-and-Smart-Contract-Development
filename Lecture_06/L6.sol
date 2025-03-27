@@ -37,6 +37,6 @@ contract Staking {
         stakedTime[msg.sender] = block.timestamp;
 
         // token.transferFrom(address(this), msg.sender, reward + _amount);
-        token.transfer(msg.sender, _amount);
+        token.transfer(msg.sender, _amount + reward);
     }
 }
