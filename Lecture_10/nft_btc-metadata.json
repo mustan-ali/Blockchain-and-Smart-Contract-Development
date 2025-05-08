@@ -1,0 +1,25 @@
+{
+    "name": "Digital Bitcoin Artifact",
+    "description": "A high-resolution digital rendering of a golden Bitcoin coin. Symbolizing the power and legacy of the original cryptocurrency.",
+    "image": "https://amethyst-fast-jackal-649.mypinata.cloud/ipfs/bafybeigfeafyu7kdyhc3rt2nmu2urw2d645votlnznvvcbgoyqkypmov3e/nft_btc.png",
+    "attributes": [
+        {
+            "trait_type": "Currency",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Style",
+            "value": "Digital 3D"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Symbol",
+            "value": "₿"
+        }
+    ],
+    "creator": "Unknown Artist",
+    "edition": 1
+}
